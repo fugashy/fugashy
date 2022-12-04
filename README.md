@@ -2,15 +2,19 @@ Hello, I'm fugashy, a software engineer.
 
 I dedicated following skills on my job:
 
-- Visual-SLAM
+- Robot localization based on Visual-SLAM
 
   - for 5+ years
 
-  - libraries: ROS, eigen, g2o, opencv ...
+  - libraries: ROS, eigen, g2o, opencv, ...
 
   - tools: docker, docker-compose, ...
 
+  - sensors: Stereo RGB camera, RGB-D sensor, IMU, wheel encoder, ...
+
 - IoT
+
+  - for 1+ years
 
   - libraries: mosquito, ...
 
