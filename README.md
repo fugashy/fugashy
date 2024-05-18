@@ -24,7 +24,7 @@ I dedicated following skills on my job:
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugashy&layout=compact&show_icons=true&theme=onedark&hide=jupyter%20notebook" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugashy&layout=compact&show_icons=true&theme=onedark&hide=jupyter%20notebook$hide=c#" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fugashy&theme=onedark&show_icons=ture" />
 </p>
 
