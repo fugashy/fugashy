@@ -6,7 +6,7 @@ I dedicated following skills on my job:
 
   - for 5+ years
 
-  - libraries: ROS, eigen, g2o, opencv ...
+  - libraries: ROS, eigen, g2o, opencv, pcl, ...
 
   - tools: docker, docker-compose, ...
 
@@ -18,13 +18,13 @@ I dedicated following skills on my job:
 
   - for 1+ years
 
-  - libraries: ROS2
+  - libraries: ROS2, eigen, opencv, pcl, 
 
   - tools: docker, docker-compose, AWS, ...
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugashy&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugashy&layout=compact&show_icons=true&theme=onedark&hide=jupyter%20notebook" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fugashy&theme=onedark&show_icons=ture" />
 </p>
 
